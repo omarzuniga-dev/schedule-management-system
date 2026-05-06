@@ -1,6 +1,6 @@
 # ProyectoFinal
 
-Proyecto Final DAE – Sistema de Gestión de Horarios
+Proyecto Final Desarrollo de Aplicaciones de Escritorio– Sistema de Gestión de Horarios
 
 ## Descripción
 
