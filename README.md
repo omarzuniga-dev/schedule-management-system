@@ -1,50 +1,44 @@
-#  Schedule Management System
+# ProyectoFinal
 
-##  Description
+Proyecto Final DAE – Sistema de Gestión de Horarios
 
-Academic schedule management system developed in C# and .NET for organizing, creating and managing class schedules.
+## Descripción
 
----
+Sistema desarrollado en C# utilizando Windows Forms y SQL Server para la administración y gestión de horarios académicos.
 
-##  Features
+Permite organizar docentes, aulas, materias, carreras y reportes dentro de una aplicación de escritorio.
 
-* Create and manage academic schedules
-* Edit and update schedule information
-* View and organize class schedules
-* Basic validation to avoid conflicts
-
----
-
-## Technologies
+## Tecnologías utilizadas
 
 * C#
-* .NET
-* Windows Forms *(o lo que usaste, puedes cambiarlo)*
+* Windows Forms
+* SQL Server
+* Entity Framework
+* Visual Studio
 
----
+## Base de datos
 
-## Project Structure
+La base de datos del proyecto se incluye como respaldo en el archivo:
 
-* Main application files (.cs)
-* Solution file (.sln)
-* Supporting folders and resources
+`BackupFinal.bak`
 
----
+## Funcionalidades
 
-## How to Run
+* Gestión de docentes
+* Gestión de aulas
+* Gestión de materias
+* Gestión de carreras
+* Reportes
+* Administración de horarios académicos
 
-1. Open the project in Visual Studio
-2. Build the solution
-3. Run the application
+## Autores
 
----
+* Esmeralda Escobar
+* Rodrigo Avelar
+* Alexander Garcia
+* Omar Zuniga
 
-##  Academic Context
+## Proyecto académico
 
-This project was developed as part of academic training to practice software development and problem-solving using C# and .NET.
+ITCA
 
----
-
-##  Author
-
-Omar Zúniga
