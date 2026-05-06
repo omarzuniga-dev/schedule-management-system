@@ -40,5 +40,5 @@ La base de datos del proyecto se incluye como respaldo en el archivo:
 
 ## Proyecto académico
 
-ITCA
+ITCA-FEPADE
 
