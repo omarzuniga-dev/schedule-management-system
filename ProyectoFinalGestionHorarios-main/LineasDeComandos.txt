@@ -1,0 +1,81 @@
+
+dotnet tool install --global dotnet-ef 
+dotnet add package Microsoft.EntityFrameworkCore 
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer 
+dotnet add package Microsoft.EntityFrameworkCore.Design 
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+
+
+dotnet ef dbcontext scaffold "Server=localhost\SQLEXPRESS;Database=DemoHorarioCS; Trusted_Connection=True; Encrypt=False;" Microsoft.EntityFrameworkCore.SqlServer -o Modelos
+
+dotnet ef dbcontext scaffold "Server=localhost\SQLEXPRESS;Database=SistemaHorariosItca; Trusted_Connection=True; Encrypt=False;" Microsoft.EntityFrameworkCore.SqlServer --output-dir Modelos --force
+ 
+ 
+
+dotnet ef dbcontext scaffold "Server=192.168.0.14; Database=; User ID=itca; Password=2025Passw_1234; Trusted_Connection=True; Encrypt=False;" Microsoft.EntityFrameworkCore.SqlServer -o Modelos
+
+USE [tu_base_de_datos]
+GO
+ALTER AUTHORIZATION ON DATABASE::[tu_base_de_datos] TO [sa]
+GO
+
+Scaffold-DbContext "Server=localhost;Database=Horario_Escuela_Computacion; User ID=ravelar; Password=itca;Trusted_Connection=True; Encrypt=False;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Modelos -Force
+
+protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+{
+    var configuration = new ConfigurationBuilder()
+    .AddJsonFile(Path.Combine(AppContext.BaseDirectory, "appsettings.json"), optional:
+    false, reloadOnChange: true)
+    .Build();
+    var connectionString = configuration.GetConnectionString("ConexionBD");
+    optionsBuilder.UseSqlServer(connectionString);
+}
+
+
+nombre de periodo
+grupo base
+familia
+turno
+nombre carrera
+ciclo
+codigo de aula
+tipo de aula
+dia de la semana
+hora de inicio
+hora de fin
+codigo de asignatura
+nombre materia
+naturaleza(tipo)
+creditos
+docente
+tipo de clase (teorica, asincrona)
+estado
+
+//Correciones
+//Materia
+En materia agregar un combobox para ciclo, 1 y 2
+Agregar carrera en materia
+Nombre de la carrera
+Plan de estudio
+Modalidad (semi, presencial, virtual)
+Especialidad
+
+//Añadir ciclos, ejemplo ciclo 1 2026
+
+//Horario
+Gerarquia, carrera, ciclo, materia, teoria o practica, familia,
+grupo, Teoria grupo unico automatico, dia con checkbox en transversales (no 100% necesario), modalidad materia virtual/presencial solo del grupo presencial o virtual, lo ultimo es el docente y no es necesario al 100% puede ser null, el aula sera asignada por audiovisuales, puede quedar en null,
+
+//Grupos y familias
+Formulario para crear grupos y familias
+TDS 121 grupo A o B
+
+//Transversales
+Transversales puede añadir docentes y horarios transversales, materias transversales
+
+//Agregar usuarios y darles permisos
+Director solo puede consultar
+darle permisos a un docente, la tabla docente debe tener un campo
+esAdmin
+
+//Crear tabla de logs

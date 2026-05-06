@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\rodri\Documents\Proyecto171125\Proyecto101125\ProyectoFinla\PFDemo\ProyectoFinal - copia - copia\proyectoFinalDAE\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="añadirAula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="añadirCarrera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="añadirDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="añadirForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="añadirMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="añadirReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GruposYFamiliasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OpcionesAvanzadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

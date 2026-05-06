@@ -1,0 +1,431 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|g:\\itca\\itca ciclo 02 - 2025\\desarrollo de aplicaciones de escritorio\\proyecto final\\prueba final\\proyectofinal\\proyectofinaldae\\clases\\gestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:clases\\gestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|g:\\itca\\itca ciclo 02 - 2025\\desarrollo de aplicaciones de escritorio\\proyecto final\\prueba final\\proyectofinal\\proyectofinaldae\\a\u00F1adirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:a\u00F1adirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:a\u00F1adirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|g:\\itca\\itca ciclo 02 - 2025\\desarrollo de aplicaciones de escritorio\\proyecto final\\prueba final\\proyectofinal\\proyectofinaldae\\a\u00F1adirreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:a\u00F1adirreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|g:\\itca\\itca ciclo 02 - 2025\\desarrollo de aplicaciones de escritorio\\proyecto final\\prueba final\\proyectofinal\\proyectofinaldae\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:a\u00F1adirreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|g:\\itca\\itca ciclo 02 - 2025\\desarrollo de aplicaciones de escritorio\\proyecto final\\prueba final\\proyectofinal\\proyectofinaldae\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\gruposyfamiliasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:gruposyfamiliasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirdocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:a\u00F1adirdocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|g:\\itca\\itca ciclo 02 - 2025\\desarrollo de aplicaciones de escritorio\\proyecto final\\prueba final\\proyectofinal\\proyectofinaldae\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|g:\\itca\\itca ciclo 02 - 2025\\desarrollo de aplicaciones de escritorio\\proyecto final\\prueba final\\proyectofinal\\proyectofinaldae\\opcionesavanzadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:opcionesavanzadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\opcionesavanzadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:opcionesavanzadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirmateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:a\u00F1adirmateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|g:\\itca\\itca ciclo 02 - 2025\\desarrollo de aplicaciones de escritorio\\proyecto final\\prueba final\\proyectofinal\\proyectofinaldae\\a\u00F1adirmateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:a\u00F1adirmateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adircarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:a\u00F1adircarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adiraula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:a\u00F1adiraula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|g:\\itca\\itca ciclo 02 - 2025\\desarrollo de aplicaciones de escritorio\\proyecto final\\prueba final\\proyectofinal\\proyectofinaldae\\a\u00F1adircarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:a\u00F1adircarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|g:\\itca\\itca ciclo 02 - 2025\\desarrollo de aplicaciones de escritorio\\proyecto final\\prueba final\\proyectofinal\\proyectofinaldae\\a\u00F1adirdocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:a\u00F1adirdocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|g:\\itca\\itca ciclo 02 - 2025\\desarrollo de aplicaciones de escritorio\\proyecto final\\prueba final\\proyectofinal\\proyectofinaldae\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|g:\\itca\\itca ciclo 02 - 2025\\desarrollo de aplicaciones de escritorio\\proyecto final\\prueba final\\proyectofinal\\proyectofinaldae\\gruposyfamiliasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:gruposyfamiliasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|g:\\itca\\itca ciclo 02 - 2025\\desarrollo de aplicaciones de escritorio\\proyecto final\\prueba final\\proyectofinal\\proyectofinaldae\\a\u00F1adiraula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:a\u00F1adiraula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|g:\\itca\\itca ciclo 02 - 2025\\desarrollo de aplicaciones de escritorio\\proyecto final\\prueba final\\proyectofinal\\proyectofinaldae\\modelos\\horarioescuelacomputacioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:modelos\\horarioescuelacomputacioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|g:\\itca\\itca ciclo 02 - 2025\\desarrollo de aplicaciones de escritorio\\proyecto final\\prueba final\\proyectofinal\\proyectofinaldae\\modelos\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:modelos\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C728A54-FD3D-4B3C-B6BD-83EB9A0BFD4F}|proyectoFinalDAE.csproj|solutionrelative:forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gestor.cs",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\Clases\\Gestor.cs",
+              "RelativeDocumentMoniker": "Clases\\Gestor.cs",
+              "ToolTip": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\Clases\\Gestor.cs",
+              "RelativeToolTip": "Clases\\Gestor.cs",
+              "ViewState": "AgIAAOcBAAAAAAAAAAAQwMUCAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T06:39:03.197Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "a\u00F1adirForm.cs",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirForm.cs",
+              "RelativeDocumentMoniker": "a\u00F1adirForm.cs",
+              "ToolTip": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirForm.cs*",
+              "RelativeToolTip": "a\u00F1adirForm.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T13:20:24.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\appsettings.json*",
+              "RelativeToolTip": "appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T09:00:48.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GruposYFamiliasForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\GruposYFamiliasForm.cs",
+              "RelativeDocumentMoniker": "GruposYFamiliasForm.cs",
+              "ToolTip": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\GruposYFamiliasForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GruposYFamiliasForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:19:24.836Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "a\u00F1adirReporte.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirReporte.cs",
+              "RelativeDocumentMoniker": "a\u00F1adirReporte.cs",
+              "ToolTip": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirReporte.cs [Dise\u00F1o]",
+              "RelativeToolTip": "a\u00F1adirReporte.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:57:28.781Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "a\u00F1adirReporte.cs",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirReporte.cs",
+              "RelativeDocumentMoniker": "a\u00F1adirReporte.cs",
+              "ToolTip": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirReporte.cs",
+              "RelativeToolTip": "a\u00F1adirReporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAClAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:57:31.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:43:48.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "a\u00F1adirForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirForm.cs",
+              "RelativeDocumentMoniker": "a\u00F1adirForm.cs",
+              "ToolTip": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirForm.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "a\u00F1adirForm.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:14:06.282Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "a\u00F1adirCarrera.cs",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirCarrera.cs",
+              "RelativeDocumentMoniker": "a\u00F1adirCarrera.cs",
+              "ToolTip": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirCarrera.cs",
+              "RelativeToolTip": "a\u00F1adirCarrera.cs",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAxwF4BAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:08:25.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "formInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\formInicio.cs",
+              "RelativeDocumentMoniker": "formInicio.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Proyecto171125\\Proyecto101125\\ProyectoFinla\\PFDemo\\ProyectoFinal - copia\\proyectoFinalDAE\\formInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:19:24.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GruposYFamiliasForm.cs",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\GruposYFamiliasForm.cs",
+              "RelativeDocumentMoniker": "GruposYFamiliasForm.cs",
+              "ToolTip": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\GruposYFamiliasForm.cs",
+              "RelativeToolTip": "GruposYFamiliasForm.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAcwL8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:19:32.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\Modelos\\Carrera.cs",
+              "RelativeDocumentMoniker": "Modelos\\Carrera.cs",
+              "ToolTip": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\Modelos\\Carrera.cs",
+              "RelativeToolTip": "Modelos\\Carrera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T05:03:33.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "a\u00F1adirDocente.cs [Design]",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirDocente.cs",
+              "RelativeDocumentMoniker": "a\u00F1adirDocente.cs",
+              "ToolTip": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirDocente.cs [Design]",
+              "RelativeToolTip": "a\u00F1adirDocente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:52:39.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T05:37:55.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HorarioEscuelaComputacionContext.cs",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\Modelos\\HorarioEscuelaComputacionContext.cs",
+              "RelativeDocumentMoniker": "Modelos\\HorarioEscuelaComputacionContext.cs",
+              "ToolTip": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\Modelos\\HorarioEscuelaComputacionContext.cs",
+              "RelativeToolTip": "Modelos\\HorarioEscuelaComputacionContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:37:55.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "a\u00F1adirCarrera.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirCarrera.cs",
+              "RelativeDocumentMoniker": "a\u00F1adirCarrera.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Proyecto171125\\Proyecto101125\\ProyectoFinla\\PFDemo\\ProyectoFinal - copia - copia\\proyectoFinalDAE\\a\u00F1adirCarrera.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:08:21.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OpcionesAvanzadas.cs",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\OpcionesAvanzadas.cs",
+              "RelativeDocumentMoniker": "OpcionesAvanzadas.cs",
+              "ToolTip": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\OpcionesAvanzadas.cs",
+              "RelativeToolTip": "OpcionesAvanzadas.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAgwAwBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:56:38.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OpcionesAvanzadas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\OpcionesAvanzadas.cs",
+              "RelativeDocumentMoniker": "OpcionesAvanzadas.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Proyecto171125\\Proyecto101125\\ProyectoFinla\\PFDemo\\ProyectoFinal - copia - copia\\proyectoFinalDAE\\OpcionesAvanzadas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:56:34.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Proyecto171125\\Proyecto101125\\ProyectoFinla\\PFDemo\\ProyectoFinal - copia - copia\\proyectoFinalDAE\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:43:43.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "a\u00F1adirAula.cs",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirAula.cs",
+              "RelativeDocumentMoniker": "a\u00F1adirAula.cs",
+              "ToolTip": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirAula.cs",
+              "RelativeToolTip": "a\u00F1adirAula.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:41:04.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "a\u00F1adirAula.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirAula.cs",
+              "RelativeDocumentMoniker": "a\u00F1adirAula.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Proyecto171125\\Proyecto101125\\ProyectoFinla\\PFDemo\\ProyectoFinal - copia - copia\\proyectoFinalDAE\\a\u00F1adirAula.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:40:56.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "a\u00F1adirMateria.cs",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirMateria.cs",
+              "RelativeDocumentMoniker": "a\u00F1adirMateria.cs",
+              "ToolTip": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirMateria.cs",
+              "RelativeToolTip": "a\u00F1adirMateria.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:04:35.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "a\u00F1adirMateria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirMateria.cs",
+              "RelativeDocumentMoniker": "a\u00F1adirMateria.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Proyecto171125\\Proyecto101125\\ProyectoFinla\\PFDemo\\ProyectoFinal - copia - copia\\proyectoFinalDAE\\a\u00F1adirMateria.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:05:14.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "a\u00F1adirDocente.cs",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirDocente.cs",
+              "RelativeDocumentMoniker": "a\u00F1adirDocente.cs",
+              "ToolTip": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\a\u00F1adirDocente.cs",
+              "RelativeToolTip": "a\u00F1adirDocente.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAQwPAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:52:42.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAADwv24AAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T06:58:07.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\ITCA\\ITCA CICLO 02 - 2025\\Desarrollo de Aplicaciones de Escritorio\\Proyecto final\\prueba final\\ProyectoFinal\\proyectoFinalDAE\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Proyecto171125\\Proyecto101125\\ProyectoFinla\\PFDemo\\ProyectoFinal - copia - copia\\proyectoFinalDAE\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T06:58:04.457Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
